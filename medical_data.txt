@@ -1,0 +1,235 @@
+Fever is a temporary increase in body temperature, often due to infection.
+
+Common cold symptoms include sneezing, coughing, sore throat, and runny nose.
+
+Headache can occur due to stress, dehydration, or lack of sleep.
+
+Diabetes is a chronic condition that affects blood sugar levels.
+
+High blood pressure can increase the risk of heart disease and stroke.
+
+Skin infections may cause redness, itching, and swelling.
+
+Cough can be caused by viral infections, allergies, or respiratory issues.
+
+Stomach pain may occur due to indigestion, gas, or infections.
+
+Flu symptoms include fever, chills, muscle aches, and fatigue.
+
+Hydration and proper rest are important for recovery from most illnesses.
+
+Diabetes:
+Symptoms: increased thirst, frequent urination, fatigue
+Treatment: insulin therapy, diet control, exercise
+
+Asthma:
+Symptoms: shortness of breath, chest tightness
+Treatment: inhalers, avoiding triggers
+
+Skin Allergy:
+Symptoms: itching, redness, rash
+Treatment: antihistamines, creams
+
+Diabetes:
+Diabetes is a chronic condition affecting blood sugar levels.
+Symptoms include increased thirst, frequent urination, fatigue, blurred vision.
+Treatment includes insulin, diet control, exercise.
+
+Hypertension:
+High blood pressure increases risk of heart disease and stroke.
+Symptoms include headache, dizziness, nosebleeds.
+Treatment includes lifestyle changes and medication.
+
+Heart Attack:
+A heart attack occurs due to blocked blood flow to the heart.
+Symptoms include chest pain, shortness of breath, sweating.
+Immediate medical attention is required.
+
+Asthma:
+Asthma is a respiratory condition causing breathing difficulty.
+Symptoms include wheezing, shortness of breath, chest tightness.
+Treatment includes inhalers and avoiding triggers.
+
+Pneumonia:
+Infection that inflames air sacs in lungs.
+Symptoms include cough, fever, difficulty breathing.
+Treatment includes antibiotics and rest.
+
+Tuberculosis:
+A bacterial infection affecting lungs.
+Symptoms include cough with blood, weight loss, fever.
+Treatment requires long-term antibiotics.
+
+Common Cold:
+Viral infection affecting nose and throat.
+Symptoms include sneezing, runny nose, sore throat.
+Treatment includes rest and fluids.
+
+Flu:
+A viral infection causing fever, body aches, fatigue.
+Treatment includes rest, fluids, antiviral medication.
+
+Migraine:
+Severe headache often with nausea and sensitivity to light.
+Treatment includes pain relievers and rest.
+
+Gastritis:
+Inflammation of stomach lining.
+Symptoms include stomach pain, nausea, vomiting.
+Treatment includes antacids and diet changes.
+
+Acidity:
+Excess stomach acid causing burning sensation.
+Treatment includes antacids and avoiding spicy food.
+
+Food Poisoning:
+Caused by contaminated food.
+Symptoms include vomiting, diarrhea, stomach cramps.
+Treatment includes hydration and rest.
+
+Kidney Stones:
+Hard deposits in kidneys.
+Symptoms include severe pain, blood in urine.
+Treatment includes hydration or surgery.
+
+Urinary Tract Infection:
+Infection in urinary system.
+Symptoms include burning urination, frequent urge.
+Treatment includes antibiotics.
+
+Anemia:
+Low red blood cells causing weakness.
+Symptoms include fatigue, pale skin, dizziness.
+Treatment includes iron supplements.
+
+Thyroid Disorder:
+Affects metabolism due to hormone imbalance.
+Symptoms include weight changes, fatigue.
+Treatment depends on condition.
+
+Skin Allergy:
+Reaction causing itching, redness, rash.
+Treatment includes antihistamines and creams.
+
+Eczema:
+Chronic skin condition causing dry, itchy skin.
+Treatment includes moisturizers and steroids.
+
+Psoriasis:
+Autoimmune skin disease causing red patches.
+Treatment includes creams and light therapy.
+
+Acne:
+Skin condition with pimples and inflammation.
+Treatment includes face wash, creams, medication.
+
+Fungal Infection:
+Skin infection causing itching and redness.
+Treatment includes antifungal creams.
+
+Dengue:
+Mosquito-borne viral disease.
+Symptoms include high fever, joint pain.
+Treatment includes hydration and monitoring.
+
+Malaria:
+Parasitic infection from mosquitoes.
+Symptoms include fever, chills, sweating.
+Treatment includes antimalarial drugs.
+
+Typhoid:
+Bacterial infection from contaminated food/water.
+Symptoms include prolonged fever, weakness.
+Treatment includes antibiotics.
+
+COVID-19:
+Viral infection affecting respiratory system.
+Symptoms include fever, cough, loss of smell.
+Treatment includes rest and medical care.
+
+Depression:
+Mental health disorder causing sadness.
+Treatment includes therapy and medication.
+
+Anxiety:
+Excessive worry or fear.
+Treatment includes therapy and relaxation techniques.
+
+Back Pain:
+Pain in lower or upper back.
+Treatment includes rest, exercise, physiotherapy.
+
+Arthritis:
+Joint inflammation causing pain.
+Treatment includes medication and exercise.
+
+Osteoporosis:
+Weak bones increasing fracture risk.
+Treatment includes calcium and vitamin D.
+
+Eye Infection:
+Infection causing redness and irritation.
+Treatment includes eye drops.
+
+Ear Infection:
+Infection causing ear pain.
+Treatment includes medication.
+
+Sinusitis:
+Inflammation of sinuses.
+Symptoms include headache, nasal congestion.
+Treatment includes steam and medication.
+
+Allergic Rhinitis:
+Allergy causing sneezing and runny nose.
+Treatment includes antihistamines.
+
+Hair Loss:
+Loss of hair due to stress or deficiency.
+Treatment includes nutrition and medication.
+
+Obesity:
+Excess body fat increasing health risks.
+Treatment includes diet and exercise.
+
+Dehydration:
+Lack of water in body.
+Symptoms include dizziness, dry mouth.
+Treatment includes fluid intake.
+
+Heat Stroke:
+Overheating of body.
+Symptoms include high temperature, confusion.
+Immediate cooling required.
+
+Burns:
+Skin damage due to heat.
+Treatment includes cooling and dressing.
+
+Cuts and Wounds:
+Injury causing bleeding.
+Treatment includes cleaning and bandaging.
+
+Fracture:
+Broken bone.
+Treatment includes immobilization and medical care.
+
+Sprain:
+Ligament injury.
+Treatment includes rest and ice.
+
+Nausea:
+Feeling of vomiting.
+Treatment depends on cause.
+
+Vomiting:
+Expelling stomach contents.
+Treatment includes hydration.
+
+Diarrhea:
+Frequent loose stools.
+Treatment includes fluids and ORS.
+
+Constipation:
+Difficulty in bowel movement.
+Treatment includes fiber and water.

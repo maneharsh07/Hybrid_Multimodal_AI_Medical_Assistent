@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Model files (optional)
+*.h5
+*.pth
+*.pt
+
+# Large videos
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
